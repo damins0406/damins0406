@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+##introduction
+영남대학교 컴퓨터공학과 박다민
+
+##link
+-email
+
+
+
+
 <!--
 **damins0406/damins0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
