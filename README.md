@@ -1,26 +1,11 @@
-### Hi there 👋
+### welcome 👋
 
+### introduction
+영남대학교 컴퓨터공학과 2학년 박다민입니다.
 
-##introduction
-영남대학교 컴퓨터공학과 박다민
+파이썬과 c언어를 배웠고 C++강의를 수강 중 입니다.
 
-##link
--email
+-🩷**interest** : 음악듣기🎧, 드라마보기📺, 맛있는음식😋
 
+-📧**email** : damins2004@gmail.com
 
-
-
-<!--
-**damins0406/damins0406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
